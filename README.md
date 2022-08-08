@@ -1,4 +1,5 @@
 # My-Contributions-Team-114
+The file contains the links to all the components I worked on.
 The links to all contributions I made in the project phase as a product designer in the Zuri training on team 114.
 I worked on the style guide that was used through out the project.
 I also worked on the error 503 page web and mobile view.
